@@ -5,6 +5,6 @@
 
 ### Where to start?
 - Create a [Graphisoft ID](https://id.graphisoft.com/user/register).  
-- Visit the [Our API Developer website](https://archicadapi.graphisoft.com) to learn all about about our APIs.
+- Visit the [Our API Developer website](https://archicadapi.graphisoft.com) to learn all about our APIs.
 - Check the [Developer's Hub](https://community.graphisoft.com/t5/Developer-Hub/ct-p/developer) if you get stuck along the way.
 
